@@ -1,7 +1,7 @@
 <h1 align="center">Base Blockchain Ethereum</h1>
 <p>Neste readme você encontra todos os módulos do curso, links uteis e links para estudo complementares que irão auxiliar no seu aprendizado.</p>
 
-# Instrutor do curso
+# Sobre o curso
 
 Meu nome é Jeftar Mascarenhas, sou desenvolvedor a mais de 10 anos e mais de 1 ano venho trabalhando com blockchain desenvolvendo aplicações web3 de ponta a ponta.
 
