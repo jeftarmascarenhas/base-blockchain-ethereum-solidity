@@ -7,7 +7,7 @@ pragma solidity >=0.5.8 <0.8.17;
  * - Funções
  * - Modificadores de funções
  * - Eventos
- * - Tipos de estrutur e tipos enumerados
+ * - Tipos de estrutura e tipos enumerados
  * - Contratos pode herdar de outros contratos
  */
 
