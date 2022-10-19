@@ -39,9 +39,10 @@ O que você vai aprender:
 
 # 3. Master Solidity Linguagem
 
-- [ ] Conceito da linguagem Solidity
+- [x] Conceito da linguagem Solidity
 - [x] Variáveis e Tipos
-- [] Storage, Memory e Calldata
+- [ ] Gas Fee e Gas Limit
+- [ ] Storage, Memory e Calldata
 - [x] Funções
 - [ ] Retorno de Funções
 - [ ] Payable
@@ -63,7 +64,6 @@ O que você vai aprender:
 - [ ] Keccak256 Função de Hash
 - [ ] Delegatecall
 - [ ] Deleting Contracts
-- [ ] Gas Fee e Gas Limit
 - [ ] ABI
 
 # 4. Contracts practices
