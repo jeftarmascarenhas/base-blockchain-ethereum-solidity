@@ -25,7 +25,10 @@ O que você vai aprender:
 
 # 1. Introdução a blockchain
 
-Adicionar conteúdo aqui
+- [x] O Que é Blockchain
+- [x] Blockchain Público e Priv
+- [x] Aplicabilidade Blockchain
+- [x] ICO Tokens DAO DEFI
 
 # 2. Smart Contract e Ethereum
 
@@ -37,12 +40,29 @@ Adicionar conteúdo aqui
 # 3. Master Solidity Linguagem
 
 - [ ] Conceito da linguagem Solidity
-- [x] Variáveis e Tipos]
+- [x] Variáveis e Tipos
+- [] Storage, Memory e Calldata
 - [x] Funções
-- [ ] Loops
-- [ ] Construtor, operadores, funções especiais[Não sei se vale apena] e condicionais
-- [ ] Require, Modifier, Função pagável e troco
-- [ ] Array, Mapping, Struct e Event
+- [ ] Retorno de Funções
+- [ ] Payable
+- [ ] Loops While e For
+- [ ] Construtor, operadores e condicionais
+- [ ] Constante e Imutabilidade
+- [ ] Require e Erros
+- [ ] Modifier, Função pagável e troco
+- [ ] Array Event
+- [ ] Mapping
+- [ ] Interagindo com Mapping
+- [ ] Struct
+- [ ] Event
+- [ ] Enum
+- [ ] Herança e Múltiplas Herança
+- [ ] Interface e abstract
+- [ ] Library(Bibliotecas)
+- [ ] Chamando outros contratos
+- [ ] Keccak256 Função de Hash
+- [ ] Delegatecall
+- [ ] Deleting Contracts
 - [ ] Gas Fee e Gas Limit
 - [ ] ABI
 
@@ -57,16 +77,21 @@ Adicionar conteúdo aqui
   - Smart Contract
 - [ ] Lottery Smart Contract
   - Smart Contract Design
+- [ ] Padrão ERC20 Token
+  - Como funciona o padrão EIP20
+  - Implementando o padrão ERC20
+  - Criando um Token ERC20
+- [ ] Padrão ERC721 NFT
+  - Como funciona o padrão EIP721
+  - Implementando o padrão ERC721
+  - Criando um Token ERC721
+- [ ] Outros padrões EIP(Ethereum Improvement Proposal)
+  - EIP1155, EIP4973
 - [ ] Rewards Smart Contract
 - [ ] Blind Auction Smart Contract
   - Smart Contract Design
-- [ ] Implement ERC20 Token
-  - Como funciona o padrão ERC/EIP20
-- [ ] Implement ERC721 NFT
-  - Como funciona o padrão ERC/EIP721
 - [ ] FarmToken Smart Contract
   - Smart Contract
-- [ ] Outros padrões EIP(Ethereum Improvement Proposal)
 
 # 5. Ethers.js
 
