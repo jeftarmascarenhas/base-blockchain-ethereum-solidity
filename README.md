@@ -73,14 +73,14 @@ O que você vai aprender:
 
 # 4. Contracts practices
 
-- [ ] Todo Smart Contract
+- [x] Vending Machine Smart Contract
 - [ ] Token(Coin) Smart Contract
   - Smart Contract Design
 - [ ] Ownable Smart Contract
   - Smart Contract
 - [ ] Access Control Smart Contract
   - Smart Contract
-- [ ] Lottery Smart Contract
+- [x] Lottery Smart Contract
   - Smart Contract Design
 - [ ] Padrão ERC20 Token
   - Como funciona o padrão EIP20

@@ -24,18 +24,17 @@ contract Lottery {
         return players;
     }
 
-    function randomess() private view returns (uint256 id) {
+    function randomness() private view returns (uint256 id) {
         id =
-            uint256(
-                keccak256(abi.encodePacked(block.difficulty, block.timestamp))
-            ) %
+            uint256(keccak256(abi.encodePacked(block.timestamp, msg.sender))) %
             players.length;
     }
 
     function raffle() external onlyOwner returns (address) {
         require(players.length >= 3, "LT: players not enough");
-        uint256 id = randomess();
+        uint256 id = randomness();
         address payable winner = players[id];
+        require(winner != address(0), "LT: try raffle again");
         withdraw(winner);
         return winner;
     }
